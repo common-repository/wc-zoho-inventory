@@ -1,0 +1,11 @@
+{
+    "name": "bitpress/bit_wc_zoho_inventory",
+    "description": "WooCommerce Zoho Inventory Integration plugin by Bitpress",
+    "license": "gpl-2",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BitPress\\BIT_WC_ZOHO_INVENTORY\\": "includes/"
+        }
+    }
+}
